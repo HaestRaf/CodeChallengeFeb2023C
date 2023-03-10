@@ -1,0 +1,15 @@
+C:\Users\haestra\Desktop\C#\codeChallenge\bin\Debug\net7.0\codeChallenge.exe
+C:\Users\haestra\Desktop\C#\codeChallenge\bin\Debug\net7.0\codeChallenge.deps.json
+C:\Users\haestra\Desktop\C#\codeChallenge\bin\Debug\net7.0\codeChallenge.runtimeconfig.json
+C:\Users\haestra\Desktop\C#\codeChallenge\bin\Debug\net7.0\codeChallenge.dll
+C:\Users\haestra\Desktop\C#\codeChallenge\bin\Debug\net7.0\codeChallenge.pdb
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\codeChallenge.csproj.AssemblyReference.cache
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\codeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\codeChallenge.AssemblyInfoInputs.cache
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\codeChallenge.AssemblyInfo.cs
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\codeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\codeChallenge.dll
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\refint\codeChallenge.dll
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\codeChallenge.pdb
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\codeChallenge.genruntimeconfig.cache
+C:\Users\haestra\Desktop\C#\codeChallenge\obj\Debug\net7.0\ref\codeChallenge.dll
